@@ -1,1 +1,3 @@
-print('hi my name is riswan')
+s= 'hi my name is'
+c='riswan'
+d=s+c
