@@ -1,3 +1,3 @@
 s= 'hi my name is'
-c='riswan'
+c='riswan.'
 d=s+c
